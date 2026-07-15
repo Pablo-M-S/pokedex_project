@@ -9,7 +9,6 @@ int id;
 string name;
 };
 vector<pokemon> kanto=
-
 {
 {1, "Bulbasaur"},
 {2, "Ivysaur"},
